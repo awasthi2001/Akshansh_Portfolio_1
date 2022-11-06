@@ -14,6 +14,13 @@ export const blogData = [
         date: 'Sep 10, 2022',
         image: 'https://cdn.hashnode.com/res/hashnode/image/upload/v1662780149591/2QXAiifub.png?auto=compress,format&format=webp',
         url: 'https://unbounce-clone.hashnode.dev/unbounce-clone'
+    },{
+        id: 3,
+        title: 'BlueMercury Clone',
+        description: 'My expeirence working on My Third project',
+        date: 'Oct 20, 2022',
+        image: 'https://cdn.hashnode.com/res/hashnode/image/upload/v1666232741296/rtVuU8GPW.png?auto=compress,format&format=webp',
+        url: 'https://blue-mercury-clone.hashnode.dev/blue-mercury-clone'
     }
 ]
 

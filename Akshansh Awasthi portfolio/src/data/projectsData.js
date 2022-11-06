@@ -9,9 +9,19 @@ import eight from '../assets/svg/projects/eight.svg'
 
 
 export const projectsData = [
- ,
+    
     {
         id: 1,
+        projectName: 'BlueMercury Clone',
+        projectDesc: "Our Problem statement is to build a pixel-perfect clone of the BlueMercury Website.Bluemercury.com is a leading luxury beauty retailer offering the best cosmetics, skin care, makeup, perfume, hair, and bath and body",
+        tags: ['HTML', 'CSS','Javascript','React','Redux','Chakra-ui','Json-Server','CSS'],
+        code: 'https://github.com/awasthi2001/Blue-Mercury-React',
+        demo: 'https://blue-mercury-react.vercel.app/',
+        image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1666232741296/rtVuU8GPW.png?auto=compress,format&format=webp"
+    }
+ ,
+    {
+        id: 2,
         projectName: 'Unbounce Clone',
         projectDesc: "Our Problem statement is to build a pixel-perfect clone of the Unbounce Website.Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high performing marketing campaigns in just a few minutes. Build landing pages",
         tags: ['HTML', 'CSS','Javascript','Json-Server'],
@@ -19,7 +29,7 @@ export const projectsData = [
         demo: 'https://unbounceclone1.netlify.app/',
         image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1662780149591/2QXAiifub.png?auto=compress,format&format=webp"
     },{
-        id: 2,
+        id: 3,
         projectName: 'Tata 1mg Clone',
         projectDesc:  "Our problem statement was to build a clone of 1 mg website. Tata 1mg is India's leading digital healthcare platform, where you can buy medicines online with discount.",
         tags: ['HTML' ,'CSS', 'Javascript'],
