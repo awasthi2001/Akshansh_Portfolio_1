@@ -5,6 +5,7 @@
     justify-content: flex-start;
     align-items: flex-start;
     padding: 3rem;
+    margin-bottom: -150px;
 }
 
 .achievement-body {
