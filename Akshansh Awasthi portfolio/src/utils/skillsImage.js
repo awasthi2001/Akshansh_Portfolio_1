@@ -74,11 +74,20 @@ import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
-
-
+import nodejs from '../assets/svg/skills/nodejs.svg'
+import redux from '../assets/svg/skills/redux.svg'
+import express from '../assets/svg/skills/express.svg'
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
+        case 'express' : 
+        return express
+        case 'chakra ui':
+            return "https://akashsurve2377.netlify.app/static/media/chakraui.3cc0dcf3.svg";
+        case 'redux':
+            return redux;
+        case 'node js':
+            return nodejs;
         case 'gcp':
             return gcp;
         case 'html':

@@ -6,6 +6,11 @@
     'Java',
     'MongoDB',
      'Git',
+     "Redux",
+     "Node js",
+     "Chakra ui",
+     "Express"
+
     // 'MySQL',
     // 'Python'
 ]
