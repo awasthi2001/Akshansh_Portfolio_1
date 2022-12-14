@@ -26,7 +26,7 @@ export const projectsData = [
     projectDesc: "Our Problem statement is to build a pixel-perfect clone of the Unbounce Website.Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high performing marketing campaigns in just a few minutes. Build landing pages",
     tags: ['HTML', 'CSS','Javascript','Json-Server'],
     code: 'https://github.com/mr-ramzan01/UnbounceProject',
-    demo: 'https://unbounceclone1.netlify.app/',
+    demo: 'https://unbounceclone.netlify.app',
     image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1662780149591/2QXAiifub.png?auto=compress,format&format=webp"
 },
 {
